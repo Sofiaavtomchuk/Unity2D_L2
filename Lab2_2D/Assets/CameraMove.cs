@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class CamMove : MonoBehaviour
+public class CameraMove : MonoBehaviour
 {
     public GameObject Player;
     void Update()
